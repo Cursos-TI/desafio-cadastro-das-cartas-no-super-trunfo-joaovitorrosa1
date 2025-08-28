@@ -15,7 +15,7 @@ int main(){
     char codigo_carta2[4];
     char nome_cidade_carta2[50];
 
-    //Inserir fnformações da carta 1:
+    //Inserir informações da carta 1:
     printf("Bem vindo ao Super Trunfo, digite as informações da carta 1\n");    
 
     printf("\nEstado (Uma letra de 'A' a 'H'): ");

@@ -68,7 +68,7 @@ int main(){
 
     pib_per_capita_carta1 = pib_carta1 / populacao_carta1;
     
-    // Calculo da densidade populacional e do pib per capita da carta 1:
+    // Calculo da densidade populacional e do pib per capita da carta 2:
     densidade_populacional_carta2 = populacao_carta2 / area_carta2;
 
     pib_per_capita_carta2 = pib_carta2 / populacao_carta2;
